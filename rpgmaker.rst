@@ -83,6 +83,32 @@ RPG Maker 2003
 
 Cette version ressemble beaucoup à son prédécesseur :ref:`rpgmaker2000` en améliorant certains aspects techniques. De plus, le système de combat change pour une vue de côté à la Final Fantasy, avec des personnages animés.
 
+.. _rpgmakeralpha:
+
+RPG Maker ɑ
+~~~~~~~~~~~
+
+RPG Maker alpha (ou "RPG Maker α") est un logiciel créant des jeux au format .jar destinés au téléphone NTT DoKoMo de série 503 et 504. Le logiciel était fourni avec les premières versions de RPG Maker 2003.
+Le logiciel permet de créer des jRPG 2D tout ce qu'il y a de plus classique, avec tout les éléments caractéristique du genre : commutateurs, système de combat, boutiques, etc. Il a la particularité d'avoir deux mode de support pour les différents modèles de téléphones : 10K et 30K. Le mode 10K possède quelques limitations: toute les commandes d'événements ne sont pas disponible, et seul 1 personnage est jouable à la fois. En mode 30K, toute les commandes événementielles sont accessibles, les vaisseaux sont débloquées et le groupe de personnage jouable en même temps est élargie a 3.
+
+Le logiciel a ses propre RTP, et était livrée avec deux projet de démonstration (un en mode 10K, et un en mode 30K)
+
+Compatibilité :
+>>>>>>>>>>>>>>>
+OS : Windows 95/98/Me/2000/XP
+Processeur: Pentium II 200 Mhz (450 Mhz recommandé);
+Direct X: 8,1;
+Graphiques: 8 Mo de mémoire virtuelle, résolution 800 x 600 (1024 x 768 recommandée) et 256 couleurs (16 bits recommandés);
+Son: PCM Sound Blaster;
+Mémoire: 32 Mo (128 Mo recommandés);
+Disque dur: 10 Mo d'espace libre (plus est recommandé);
+CD-ROM: 2X haute vitesse.
+
+Téléphones pris en charges :
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+- Série 503i: P503i / F503i / N503i / SO503i / D503i / P503iS / F503iS / N503iS / SO503iS / D503iS.
+- Série 504i: P504i / F504i / N504i / SO504i / D504i. 
+
 .. _rpgmakerxp:
 
 RPG Maker XP
